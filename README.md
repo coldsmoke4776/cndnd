@@ -10,20 +10,21 @@ C&D&D is a narrative combat engine that is modelled closely to (but is a simplif
 
 This is a personal learning project, written in C to explore concepts like:
 
-Pointers
-Memory Management (malloc, free)
-Modular Project Design
-File I/O
-Game Logic
+<li>Pointers,</li>
+<li>Memory Management (malloc, free),</li>
+<li>Modular Project Design,</li>
+<li>File I/O,</li>
+<li>Game Logic</li>
 
 <h3>Features (v1)</h3>
 
-Modular codebase (main.c, character.c, combat.c, bestiary.c, dicegoblin.c
-Party system with ability scores, modifiers, AC, and HP
-Combat loop with attack rolls, damage dice and initiative to sort turn order
-Monster bestiary - I used actual stat blocks from https://www.dndbeyond.com/sources/dnd/br-2024
-Save/load party system in party.txt
-Terminal-based play - no graphics card needed, I am fairly sure this would run on a potato with a battery taped to it.
+<li>Modular codebase (main.c, character.c, combat.c, bestiary.c, dicegoblin.c</li>
+<li>Party system with ability scores, modifiers, AC, and HP</li>
+<li>Combat loop with attack rolls, damage dice and initiative to sort turn order</li>
+<li>Monster bestiary - I used actual stat blocks from https://www.dndbeyond.com/sources/dnd/br-2024 </li>
+<li>Save/load party system in party.txt </li>
+<li>Terminal-based play - no graphics card needed, I am fairly sure this would run on a potato with a battery taped to it.</li>
+
 
 <h3>Installation</h3>
 
@@ -66,3 +67,4 @@ Goblin has been defeated!
 <h3>Roadmap for future expansion</h3>
 
 The idea is that future expansions will add items, levelling, spellcasting, ranged attacks and narrative arcs. Feel free to take this and run with it yourself!
+
