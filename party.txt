@@ -1,0 +1,4 @@
+Tav, NE, Fighter, 40, 18, 14, 16, 12, 13, 10, 15
+Gale, NG, Wizard, 30, 10, 12, 14, 18, 16, 18, 14
+Jaheira, LG, Ranger, 40, 16, 16, 16, 14, 18, 14, 16
+Shadowheart, CE, Cleric, 30, 16, 18, 14, 12, 18, 16, 16
